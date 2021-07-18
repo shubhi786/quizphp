@@ -96,7 +96,7 @@ border-radius:10px;
     <div class="pallete mb-5 col-xl-12 col-lg-12">
 
       <div class="heading">
-        <h1 class="text-center mt-4" style="font-family:'FFF Tusj';"><?php echo $roww['cat_name']." QUIZ"; ?></h1>
+        <h1 class="text-center mt-4" style="font-family:'FFF Tusj';"><?php echo $roww['subject_name']." QUIZ"; ?></h1>
       </div>
         <?php
  }
